@@ -5,9 +5,9 @@ description = "Image optimizer for processing NextJS image requests"
 authors = ["Jan Soukup <jan@ssoukup.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.8"
+python = "~3.11"
 pillow = "^9.3.0"
-requests = "^2.28.1"
+requests = "2.31.0"
 botocore = "^1.29.41"
 filetype = "^1.2.0"
 
